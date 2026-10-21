@@ -1,0 +1,7 @@
+{
+    "moodle_user": "OGRENCI_NO",
+    "moodle_pass": "SIFREN",
+    "telegram_token": "BOTFATHER_TOKEN",
+    "telegram_chat_id": "",
+    "telegram_aktif": true
+}

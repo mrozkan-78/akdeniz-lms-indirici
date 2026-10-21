@@ -1,0 +1,22 @@
+# --- GİZLİ BİLGİLER (asla GitHub'a gitmez) ---
+gizli_ayarlar.json
+bulut/bulut_baglanti.json
+*.key
+*.pem
+.env
+
+# --- Kişisel çalışma verileri ---
+indirilenler.db
+*.db
+*.log
+tarayici_profili/
+Moodle_Dosyalari/
+
+# --- Teşhis / kontrol çıktıları (hesap bilgisi içerebilir) ---
+*_sonuc.txt
+
+# --- Python ---
+__pycache__/
+*.pyc
+venv/
+.venv/
