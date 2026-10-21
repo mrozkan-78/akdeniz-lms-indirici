@@ -52,3 +52,7 @@ Giriş bilgileri, Telegram token'ı ve sunucu bağlantı bilgileri koddan ayrı 
 ## Not
 
 Bu proje kişisel kullanım ve öğrenme amaçlıdır. Sunucuyu yormamak için istekler arasında bekleme yapılır. İndirilen ders materyalleri depoya dahil edilmez.
+
+## Lisans
+
+[MIT](LICENSE) © 2026 Bayram Özkan

@@ -20,3 +20,6 @@ __pycache__/
 *.pyc
 venv/
 .venv/
+
+# --- GitHub profil araçları (ayrı depo) ---
+github_profil/
